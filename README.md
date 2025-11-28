@@ -27,7 +27,7 @@ Why is the size so big? It's the 40 high quality Harmonium sounds.
 
 Origins & Big Thanks
 This project stands on the shoulders of a giant. It would not exist without the original LidAngleSensor utility created by Sam Gold. He did the hard work of discovering the sensor and building the original app. I just put a musical spin on it. All credit for the foundational concept goes to him. You should check out his work!
-
+..............
 Building It
 You'll need Xcode. Clone the repo, hit the big triangle play button, and you should be good to go.
 
