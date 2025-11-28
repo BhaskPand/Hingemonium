@@ -56,4 +56,4 @@ If you just want to try it out, just download the latest release\!
 
 -----
 
-That's the complete content ready for you to copy and paste\! Let me know if you need any other text formatted or written.!
+That's the complete content ready for you to copy and paste\! Let me know if you need any other text formatted or written!!
